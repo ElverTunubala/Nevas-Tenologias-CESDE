@@ -1,2 +1,5 @@
 se vio como crear una rama
 sistemas de control de versiones
+ramas
+Como ignorar archivos para no ser comprometidos en el
+área de trabajo.
