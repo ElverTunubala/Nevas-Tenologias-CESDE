@@ -1,0 +1,1 @@
+se vio como crear un archivo y subirlo a git
